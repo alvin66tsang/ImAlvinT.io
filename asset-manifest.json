@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/alvin66tsang.github.io/ImAlvinT.io/static/css/main.96ddde18.css",
-    "main.js": "/alvin66tsang.github.io/ImAlvinT.io/static/js/main.13e9c9db.js",
-    "static/media/footer.jpg": "/alvin66tsang.github.io/ImAlvinT.io/static/media/footer.fbdc992775d0c0221c95.jpg",
-    "static/media/clearance.png": "/alvin66tsang.github.io/ImAlvinT.io/static/media/clearance.434f66674a027e1d119b.png",
-    "static/media/aasmo.png": "/alvin66tsang.github.io/ImAlvinT.io/static/media/aasmo.299842162d16630bc9a6.png",
-    "static/media/pms.png": "/alvin66tsang.github.io/ImAlvinT.io/static/media/pms.763bfccff1f4ac65286f.png",
-    "static/media/profile.jpeg": "/alvin66tsang.github.io/ImAlvinT.io/static/media/profile.40fdbb15b469d2dd8c02.jpeg",
-    "static/media/flexsystem_hrms.jpg": "/alvin66tsang.github.io/ImAlvinT.io/static/media/flexsystem_hrms.bc70eba351caca6a12ff.jpg",
-    "static/media/aashk.png": "/alvin66tsang.github.io/ImAlvinT.io/static/media/aashk.b17f36f3d88328bcec53.png",
-    "index.html": "/alvin66tsang.github.io/ImAlvinT.io/index.html",
-    "main.96ddde18.css.map": "/alvin66tsang.github.io/ImAlvinT.io/static/css/main.96ddde18.css.map",
-    "main.13e9c9db.js.map": "/alvin66tsang.github.io/ImAlvinT.io/static/js/main.13e9c9db.js.map"
+    "main.css": "/ImAlvinT.io/static/css/main.cc6d6240.css",
+    "main.js": "/ImAlvinT.io/static/js/main.e502b5a4.js",
+    "static/media/footer.jpg": "/ImAlvinT.io/static/media/footer.fbdc992775d0c0221c95.jpg",
+    "static/media/clearance.png": "/ImAlvinT.io/static/media/clearance.434f66674a027e1d119b.png",
+    "static/media/aasmo.png": "/ImAlvinT.io/static/media/aasmo.299842162d16630bc9a6.png",
+    "static/media/pms.png": "/ImAlvinT.io/static/media/pms.763bfccff1f4ac65286f.png",
+    "static/media/profile.jpeg": "/ImAlvinT.io/static/media/profile.40fdbb15b469d2dd8c02.jpeg",
+    "static/media/flexsystem_hrms.jpg": "/ImAlvinT.io/static/media/flexsystem_hrms.bc70eba351caca6a12ff.jpg",
+    "static/media/aashk.png": "/ImAlvinT.io/static/media/aashk.b17f36f3d88328bcec53.png",
+    "index.html": "/ImAlvinT.io/index.html",
+    "main.cc6d6240.css.map": "/ImAlvinT.io/static/css/main.cc6d6240.css.map",
+    "main.e502b5a4.js.map": "/ImAlvinT.io/static/js/main.e502b5a4.js.map"
   },
   "entrypoints": [
-    "static/css/main.96ddde18.css",
-    "static/js/main.13e9c9db.js"
+    "static/css/main.cc6d6240.css",
+    "static/js/main.e502b5a4.js"
   ]
 }

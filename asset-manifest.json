@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/ImAlvinT.io/ImAlvinT/static/css/main.0a536593.css",
-    "main.js": "/ImAlvinT.io/ImAlvinT/static/js/main.b765592e.js",
-    "static/media/footer.jpg": "/ImAlvinT.io/ImAlvinT/static/media/footer.fbdc992775d0c0221c95.jpg",
-    "static/media/clearance.png": "/ImAlvinT.io/ImAlvinT/static/media/clearance.434f66674a027e1d119b.png",
-    "static/media/aasmo.png": "/ImAlvinT.io/ImAlvinT/static/media/aasmo.299842162d16630bc9a6.png",
-    "static/media/pms.png": "/ImAlvinT.io/ImAlvinT/static/media/pms.763bfccff1f4ac65286f.png",
-    "static/media/profile.jpeg": "/ImAlvinT.io/ImAlvinT/static/media/profile.40fdbb15b469d2dd8c02.jpeg",
-    "static/media/flexsystem_hrms.jpg": "/ImAlvinT.io/ImAlvinT/static/media/flexsystem_hrms.bc70eba351caca6a12ff.jpg",
-    "static/media/aashk.png": "/ImAlvinT.io/ImAlvinT/static/media/aashk.b17f36f3d88328bcec53.png",
-    "index.html": "/ImAlvinT.io/ImAlvinT/index.html",
-    "main.0a536593.css.map": "/ImAlvinT.io/ImAlvinT/static/css/main.0a536593.css.map",
-    "main.b765592e.js.map": "/ImAlvinT.io/ImAlvinT/static/js/main.b765592e.js.map"
+    "main.css": "/ImAlvinT/portfolio/static/css/main.31f4aca0.css",
+    "main.js": "/ImAlvinT/portfolio/static/js/main.6a726de6.js",
+    "static/media/footer.jpg": "/ImAlvinT/portfolio/static/media/footer.fbdc992775d0c0221c95.jpg",
+    "static/media/clearance.png": "/ImAlvinT/portfolio/static/media/clearance.434f66674a027e1d119b.png",
+    "static/media/aasmo.png": "/ImAlvinT/portfolio/static/media/aasmo.299842162d16630bc9a6.png",
+    "static/media/pms.png": "/ImAlvinT/portfolio/static/media/pms.763bfccff1f4ac65286f.png",
+    "static/media/profile.jpeg": "/ImAlvinT/portfolio/static/media/profile.40fdbb15b469d2dd8c02.jpeg",
+    "static/media/flexsystem_hrms.jpg": "/ImAlvinT/portfolio/static/media/flexsystem_hrms.bc70eba351caca6a12ff.jpg",
+    "static/media/aashk.png": "/ImAlvinT/portfolio/static/media/aashk.b17f36f3d88328bcec53.png",
+    "index.html": "/ImAlvinT/portfolio/index.html",
+    "main.31f4aca0.css.map": "/ImAlvinT/portfolio/static/css/main.31f4aca0.css.map",
+    "main.6a726de6.js.map": "/ImAlvinT/portfolio/static/js/main.6a726de6.js.map"
   },
   "entrypoints": [
-    "static/css/main.0a536593.css",
-    "static/js/main.b765592e.js"
+    "static/css/main.31f4aca0.css",
+    "static/js/main.6a726de6.js"
   ]
 }
